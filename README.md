@@ -5,6 +5,7 @@ This project uses a small corpus of 12 IMDb movie reviews. The reviews cover thr
 
 ## Target audience
 The target audience for this corpus includes students, researchers, and instructors interested in practicing natural language processing on real-world, user-generated texts. Because the corpus consists of IMDb movie reviews, it is also useful for those studying film reception, online opinion-sharing, sentiment analysis,or media discourse.
+_Note: Possible research questions that could be explored using this corpus are further stated in the Jupyter Notebook._
 
 ## Text selection criteria.
 For this project, I selected a small set of movie reviews directly from the IMDb website. For each film in the corpus, I chose three user-written reviews, ensuring that the texts were written in English and varied in length and style. The goal was to create a compact but comparable sample across movies while keeping the corpus manageable for annotation and analysis. No additional filtering criteria (such as rating, reviewer profile, or posting date) were applied; the reviews were simply taken from the publicly available IMDb review section for each title.
