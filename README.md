@@ -38,10 +38,10 @@ The table below contains a more detailed description of the ```annotated_data.cs
 | Text  | the text of each movie review | text |
 | Doc | contains each review after being processed by spaCy’s NLP pipeline | text |
 | Tokens | lists the individual words and punctuation marks spaCy extracted from each review | text |
-| Lemmas | the base or dictionary form of each toke | text |
+| Lemmas | the base or dictionary form of each token | text |
 | POS | includes the part-of-speech tag for each token (e.g., noun, verb, adjective) | text |
 | Proper_Nouns | lists all tokens in each review that spaCy tagged with the PROPN part-of-speech tag | text |
-| Named_Entities | he entities identified by spaCy’s NER | text |
+| Named_Entities | the entities identified by spaCy’s NER | text |
 | NE_Words | the actual text strings of the named entities detected by spaCy | text |
 
 The table below contains a more detailed description of the ```metadata.csv ``` file:
