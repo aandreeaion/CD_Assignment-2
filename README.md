@@ -8,13 +8,16 @@ The target audience for this corpus includes students, researchers, and instruct
 
 _Note: Possible research questions that could be explored using this corpus are further stated in the Jupyter Notebook._
 
-## Text selection criteria.
+## Text selection criteria
 For this project, I selected a small set of movie reviews directly from the IMDb website. For each film in the corpus, I chose three user-written reviews, ensuring that the texts were written in English and varied in length and style. The goal was to create a compact but comparable sample across movies while keeping the corpus manageable for annotation and analysis. No additional filtering criteria (such as rating, reviewer profile, or posting date) were applied; the reviews were simply taken from the publicly available IMDb review section for each title.
-## Data collection process.
+
+## Data collection process
 The data was retrieved from the official IMDb website. The reviews were randomly selected for each movie and simply copy and pasted into a ```.txt``` file.
-## Cleaning and/or preprocessing steps if you’ve done any.
+
+## Cleaning and/or preprocessing steps
 No cleaning or preprocessing has been performed on the data.
-## Annotations that you’ve added and tools that you used for that.
+
+## Annotations
 The following annotations have been added to the corpus:
 - Tokens
 - Lemmas
@@ -22,6 +25,7 @@ The following annotations have been added to the corpus:
 - Proper_Nouns
 - Named_Entities
 - Ne_Words
+
 ## Format of the files in the corpus 
 -  ``` .txt``` files containing the movie reviews 
 -  ```.csv``` files with corpus data and annotations
